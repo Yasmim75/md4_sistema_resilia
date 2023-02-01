@@ -12,7 +12,7 @@ Para nesse sistema tolerar a tarefa de realizar essa modelagem e responder algum
 Sim, foi adicionada mais seis entidades.
      
        ➥  Quais são os principais campos e tipos?
-Os principais  campos são os ID's, Nome e CPF e os principais tipo são Varchar e INT.
+Os principais  campos são os ID's, Nome, CPF e CNPJ e os principais tipo são Varchar e INT.
 
       ➥ Como essas entidades estão relacionadas?
 
