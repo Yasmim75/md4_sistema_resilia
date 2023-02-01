@@ -9,10 +9,19 @@ Para nesse sistema tolerar a tarefa de realizar essa modelagem e responder algum
 
 ### Respostas
      ➥  Existem outras entidades além dessas três?
-Sim, foi adicionada mais quatro entidades.
+Sim, foi adicionada mais seis entidades.
      
        ➥  Quais são os principais campos e tipos?
 Os principais  campos são os ID's, Nome e CPF e os principais tipo são Varchar e INT.
 
       ➥ Como essas entidades estão relacionadas?
 
+
+
+
+
+
+
+
+
+![diagrama_relacionamento](https://raw.githubusercontent.com/Yasmim75/md4_sistema_resilia/main/02_01_SQLimagem.png)
