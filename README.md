@@ -15,6 +15,15 @@ Sim, foi adicionada mais seis entidades.
 Os principais  campos são os ID's, Nome, CPF e CNPJ e os principais tipo são Varchar e INT.
 
       ➥ Como essas entidades estão relacionadas?
+ Uma Instituição para muitos Cursos (1:N)
+Um Curso possue muitas Matrículas(1:N)
+Um Curso possue muitas Diciplinas(1:N)
+Uma Diciplina para muitas Turmas (1:N)
+Muitos Alunos para muitas Turmas (N:N)
+Muitos Professores para muitas Turmas (N:N)
+Muitos Facilitadores para  muitas Turmas(N:N)
+Uma Turma pertence a  uma Sala (1:1)
+Um Aluno possue uma Matrícula(1:1)
 
 
 
